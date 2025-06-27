@@ -10,3 +10,6 @@
     co = checkout
     ci = commit
     br = branch
+
+[format]
+    pretty = format:%C(yellow)%h%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset
