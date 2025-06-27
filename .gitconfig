@@ -1,0 +1,12 @@
+[user]
+    name = Yodi-El
+    email = piusgodfrey04@gmail.com
+
+[core]
+    editor = vim
+
+[alias]
+    st = status
+    co = checkout
+    ci = commit
+    br = branch
